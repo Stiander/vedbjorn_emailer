@@ -1,0 +1,8 @@
+pymongo[srv]
+dnspython
+neo4j==4.3.1
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib
+fastapi==0.79.0
+uvicorn==0.18.2
